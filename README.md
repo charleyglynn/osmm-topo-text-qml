@@ -1,5 +1,5 @@
 # osmm-topo-text-qml
-A simple QML file for use in QGIS which sorts out the label placement for OS MasterMap Topography Layer GML
+A simple QML file for use in QGIS which sorts out the label placement for [OS MasterMap Topography Layer](https://www.ordnancesurvey.co.uk/business-and-government/products/topography-layer.html)GML
 
 I have used the data-defined label options and created custom expressions that convert the 'anchorposition' numeric values into the strings that QGIS requires.
 
